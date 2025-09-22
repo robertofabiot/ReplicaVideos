@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA0E7A-C0A0-43F0-89A4-642A8FD5A80E}|CiudadesLibrary\\CiudadesLibrary.csproj|c:\\users\\rfter\\documents\\archivos uam\\semestreii\\programacion_estructurada\\semana4\\registrodeciudades\\ciudadeslibrary\\dao\\ciudaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA0E7A-C0A0-43F0-89A4-642A8FD5A80E}|CiudadesLibrary\\CiudadesLibrary.csproj|solutionrelative:ciudadeslibrary\\dao\\ciudaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26EA0E7A-C0A0-43F0-89A4-642A8FD5A80E}|CiudadesLibrary\\CiudadesLibrary.csproj|c:\\users\\rfter\\documents\\archivos uam\\semestreii\\programacion_estructurada\\semana4\\registrodeciudades\\ciudadeslibrary\\modelos\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26EA0E7A-C0A0-43F0-89A4-642A8FD5A80E}|CiudadesLibrary\\CiudadesLibrary.csproj|solutionrelative:ciudadeslibrary\\modelos\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E858B2F-0382-43FC-9610-46E3E086DFF6}|CiudadesApp\\CiudadesApp.csproj|C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E858B2F-0382-43FC-9610-46E3E086DFF6}|CiudadesApp\\CiudadesApp.csproj|solutionrelative:ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CiudadDao.cs",
+              "DocumentMoniker": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\CiudadesLibrary\\Dao\\CiudadDao.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary\\Dao\\CiudadDao.cs",
+              "ToolTip": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\CiudadesLibrary\\Dao\\CiudadDao.cs",
+              "RelativeToolTip": "CiudadesLibrary\\Dao\\CiudadDao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:16:32.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "RelativeToolTip": "CiudadesLibrary\\Modelos\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:16:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\CiudadesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CiudadesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\rfter\\Documents\\Archivos UAM\\SemestreII\\Programacion_Estructurada\\semana4\\RegistrodeCiudades\\CiudadesApp\\Form1.cs [Design]",
+              "RelativeToolTip": "CiudadesApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:59:17.209Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
